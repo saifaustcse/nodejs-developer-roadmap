@@ -1,8 +1,8 @@
-# NodeJS Developer Roadmap
+# Node.js Developer Roadmap
 
-> Roadmap to becoming a NodeJS developer in 2021:
+> Roadmap to becoming a Node.js developer in 2021:
 
-Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a NodeJS developer. I made this chart as a tip for everyone who asks me, "What should I learn next as a NodeJS developer?"
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next as a Node.js developer?"
 
 ## Disclaimer
 
@@ -92,7 +92,6 @@ If you like or are using this project to learn or start your solution, please gi
 5. API Clients
 
    - REST
-     - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
      - [SuperAgent](https://visionmedia.github.io/superagent/)
      - [axios](https://github.com/axios/axios)
    - GraphQL
@@ -209,7 +208,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ## Contribution
 
-If you want to contribute to this project to make it more helpful for other React developers, your help is very welcome!
+If you want to contribute to this project to make it more helpful for other Node.js developers, your help is very welcome!
 
 Just file an issue, better yet: submit a PR! 🙂
 
