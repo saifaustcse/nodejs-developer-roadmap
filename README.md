@@ -55,20 +55,32 @@ If you like or are using this project to learn or start your solution, please gi
    - [codepen](https://codepen.io/pen/)
    - [stackblitz](https://stackblitz.com/)
 
-3. Routing
+3. Web Frameworks
+
+   - [Express.js](https://expressjs.com/)
+   - [Adonis.js](https://adonisjs.com/)
+   - [Meteor.js](https://www.meteor.com/)
+   - [Nest.js](https://nestjs.com/)
+   - [Sails.js](https://sailsjs.com/)
+   - [Koa.js](https://koajs.com/)
+   - [Loopback.io](https://loopback.io/)
+   - [egg.js](https://eggjs.org/en/index.html)
+   - [midway](https://midwayjs.org/midway/en/)
+
+4. Routing
 
    - [React-Router](https://reacttraining.com/react-router/)
    - [Router5](https://router5.js.org/)
    - [Redux-First Router](https://github.com/faceyspacey/redux-first-router)
    - [Reach Router](https://reach.tech/router/)
 
-4. Type Checkers
+5. Type Checkers
 
    - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
    - [TypeScript](https://www.typescriptlang.org/)
    - [Flow](https://flow.org/en/)
 
-5. Build Tools
+6. Build Tools
 
    - Package Managers
      - [npm](https://www.npmjs.com/)
@@ -85,7 +97,6 @@ If you like or are using this project to learn or start your solution, please gi
      - [gulp](https://gulpjs.com/)
      - [grunt](https://gruntjs.com/)
 
-
 7. API Clients
 
    - REST
@@ -97,42 +108,72 @@ If you like or are using this project to learn or start your solution, please gi
      - [Relay](https://facebook.github.io/relay/)
      - [urql](https://github.com/FormidableLabs/urql)
 
-8. Utility Libraries
+8. Real-Time Communication
 
-   - [Lodash](https://lodash.com/)
-   - [Moment](https://momentjs.com/)
-   - [classnames](https://github.com/JedWatson/classnames)
-   - [Numeral](http://numeraljs.com/)
-   - [RxJS](http://reactivex.io/)
-   - [ImmutableJS](https://facebook.github.io/immutable-js/)
-   - [Ramda](https://ramdajs.com/)
+   - [Socket.IO](https://socket.io/)
 
-9. Testing
+9. MicroServices
 
-   - Unit Testing
-     - [Jest](https://facebook.github.io/jest/)
-     - [Enzyme](http://airbnb.io/enzyme/)
-     - [Sinon](http://sinonjs.org/)
-     - [Mocha](https://mochajs.org/)
-     - [Chai](http://www.chaijs.com/)
-     - [AVA](https://github.com/avajs/ava)
-     - [Tape](https://github.com/substack/tape)
-   - End to End Testing
-     - [Selenium](https://www.seleniumhq.org/), [Webdriver](http://webdriver.io/)
-     - [Cypress](https://cypress.io/)
-     - [Puppeteer](https://pptr.dev/)
-     - [Cucumber.js](https://github.com/cucumber/cucumber-js)
-     - [Nightwatch.js](http://nightwatchjs.org/)
-   - Integration Testing
-     - [Karma](https://karma-runner.github.io/)
+   - Message-Broker
 
-10. Desktop Application Development
+   - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
+   - [Apache Kafka](https://www.npmjs.com/package/kafka-node)
+   - [ActiveMQ](https://github.com/apache/activemq)
+   - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
 
-    - [Proton Native](https://proton-native.js.org/)
-    - [Electron](https://electronjs.org/)
-    - [React Native Windows](https://github.com/Microsoft/react-native-windows)
+   - Message-Bus
+   - [Distribus](https://distribus.com/)
+   - [BusMQ](https://github.com/capriza/node-busmq)F
 
-11. Virtual Reality
+10. Databases
+
+    1. Relational
+       - [SQL Server](https://www.microsoft.com/sql-server/sql-server-2019)
+       - [Oracle](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html)
+       - [MySQL](https://www.mysql.com)
+       - [PostgreSQL](https://www.postgresql.org)
+       - [MariaDB](https://mariadb.org)
+    2. Cloud Databases
+       - [CosmosDB](https://docs.microsoft.com/azure/cosmos-db)
+       - [DynamoDB](https://aws.amazon.com/dynamodb)
+    3. NoSQL
+       - [Redis](https://redis.io)
+       - [MongoDB](https://docs.microsoft.com/aspnet/core/tutorials/first-mongo-app)
+       - [Apache Cassandra](http://cassandra.apache.org)
+       - [LiteDB](https://github.com/mbdavid/LiteDB)
+       - [RavenDB](https://github.com/ravendb/ravendb)
+       - [CouchDB](http://couchdb.apache.org)
+
+11. Utility Libraries
+
+    - [Lodash](https://lodash.com/)
+    - [Moment](https://momentjs.com/)
+    - [classnames](https://github.com/JedWatson/classnames)
+    - [Numeral](http://numeraljs.com/)
+    - [RxJS](http://reactivex.io/)
+    - [ImmutableJS](https://facebook.github.io/immutable-js/)
+    - [Ramda](https://ramdajs.com/)
+
+12. Testing
+
+    - Unit Testing
+      - [Jest](https://facebook.github.io/jest/)
+      - [Enzyme](http://airbnb.io/enzyme/)
+      - [Sinon](http://sinonjs.org/)
+      - [Mocha](https://mochajs.org/)
+      - [Chai](http://www.chaijs.com/)
+      - [AVA](https://github.com/avajs/ava)
+      - [Tape](https://github.com/substack/tape)
+    - End to End Testing
+      - [Selenium](https://www.seleniumhq.org/), [Webdriver](http://webdriver.io/)
+      - [Cypress](https://cypress.io/)
+      - [Puppeteer](https://pptr.dev/)
+      - [Cucumber.js](https://github.com/cucumber/cucumber-js)
+      - [Nightwatch.js](http://nightwatchjs.org/)
+    - Integration Testing
+      - [Karma](https://karma-runner.github.io/)
+
+13. Virtual Reality
 
     - [React 360](https://facebook.github.io/react-360/)
 
