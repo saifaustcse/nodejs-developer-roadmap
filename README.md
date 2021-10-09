@@ -89,13 +89,7 @@ If you like or are using this project to learn or start your solution, please gi
    - [egg.js](https://eggjs.org/en/index.html)
    - [midway](https://midwayjs.org/midway/en/)
 
-5. Type Checkers
-
-   - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
-   - [TypeScript](https://www.typescriptlang.org/)
-   - [Flow](https://flow.org/en/)
-
-6. API Clients
+5. API Clients
 
    - REST
      - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
@@ -106,11 +100,11 @@ If you like or are using this project to learn or start your solution, please gi
      - [Relay](https://facebook.github.io/relay/)
      - [urql](https://github.com/FormidableLabs/urql)
 
-7. Real-Time Communication
+6. Real-Time Communication
 
    - [Socket.IO](https://socket.io/)
 
-8. MicroServices
+7. MicroServices
 
    - Message-Broker
      - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
@@ -121,20 +115,20 @@ If you like or are using this project to learn or start your solution, please gi
      - [Distribus](https://distribus.com/)
      - [BusMQ](https://github.com/capriza/node-busmq)
 
-9. Task Scheduling
+8. Task Scheduling
 
    - [Agenda](https://github.com/agenda/agenda)
    - [Cronicle](https://github.com/jhuckaby/Cronicle)
    - [Node-Schedule](https://www.npmjs.com/package/node-schedule)
 
-10. ORM
+9. ORM
 
-    - [sequelize](https://sequelize.org/) Sequelize is a promise-based Node-js ORM that is compatible with Maria DB, Postgress, MySQL, SQLite, and Microsoft SQL
-    - [Mongoose](https://mongoosejs.com/) mongodb object modeling for node.js
-    - [knex](https://www.npmjs.com/package/knex) A query builder for PostgreSQL, MySQL, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
-    - [typeorm](https://www.npmjs.com/package/typeorm) ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+   - [sequelize](https://sequelize.org/) Sequelize is a promise-based Node-js ORM that is compatible with Maria DB, Postgress, MySQL, SQLite, and Microsoft SQL
+   - [Mongoose](https://mongoosejs.com/) mongodb object modeling for node.js
+   - [knex](https://www.npmjs.com/package/knex) A query builder for PostgreSQL, MySQL, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+   - [typeorm](https://www.npmjs.com/package/typeorm) ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 
-11. Databases
+10. Databases
 
     1. Relational
        - [PostgreSQL](https://www.postgresql.org)
@@ -153,7 +147,7 @@ If you like or are using this project to learn or start your solution, please gi
        - [RavenDB](https://github.com/ravendb/ravendb)
        - [CouchDB](http://couchdb.apache.org)
 
-12. Security Libraries
+11. Security Libraries
 
     - [bcryptjs](https://auth0.com/blog/complete-guide-to-nodejs-express-user-authentication/)
     - [cors](https://auth0.com/blog/complete-guide-to-nodejs-express-user-authentication/)
@@ -164,7 +158,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [Auth0](https://auth0.com/blog/complete-guide-to-nodejs-express-user-authentication/)
     - [nodemailer](http://www.passportjs.org/)
 
-13. Utility Libraries
+12. Utility Libraries
 
     - [JSHint](https://github.com/jshint/jshint)
     - [commander](https://github.com/tj/commander.js/)
@@ -175,6 +169,12 @@ If you like or are using this project to learn or start your solution, please gi
     - [Numeral](http://numeraljs.com/)
     - [ImmutableJS](https://facebook.github.io/immutable-js/)
     - [Ramda](https://ramdajs.com/)
+
+13. Type Checkers
+
+- [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Flow](https://flow.org/en/)
 
 14. Logging
 
