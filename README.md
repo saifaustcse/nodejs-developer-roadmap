@@ -20,7 +20,6 @@ If you like or are using this project to learn or start your solution, please gi
 
 1. IDEs
 
-   - [visualstudio](https://visualstudio.microsoft.com/downloads/)
    - [visualstudioCode](https://code.visualstudio.com/Download)
 
 2. JavaScript
@@ -56,32 +55,7 @@ If you like or are using this project to learn or start your solution, please gi
    - [codepen](https://codepen.io/pen/)
    - [stackblitz](https://stackblitz.com/)
 
-3. Web Frameworks
-
-   - [Express.js](https://expressjs.com/)
-   - [Adonis.js](https://adonisjs.com/)
-   - [Meteor.js](https://www.meteor.com/)
-   - [Nest.js](https://nestjs.com/)
-   - [Sails.js](https://sailsjs.com/)
-   - [Koa.js](https://koajs.com/)
-   - [Loopback.io](https://loopback.io/)
-   - [egg.js](https://eggjs.org/en/index.html)
-   - [midway](https://midwayjs.org/midway/en/)
-
-4. Routing
-
-   - [React-Router](https://reacttraining.com/react-router/)
-   - [Router5](https://router5.js.org/)
-   - [Redux-First Router](https://github.com/faceyspacey/redux-first-router)
-   - [Reach Router](https://reach.tech/router/)
-
-5. Type Checkers
-
-   - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
-   - [TypeScript](https://www.typescriptlang.org/)
-   - [Flow](https://flow.org/en/)
-
-6. Build Tools
+3. Build Tools
 
    - Package Managers
      - [npm](https://www.npmjs.com/)
@@ -103,7 +77,25 @@ If you like or are using this project to learn or start your solution, please gi
      - [Browserify](http://browserify.org/)
      - [FuseBox](https://fuse-box.org/)
 
-7. API Clients
+4. Web Frameworks
+
+   - [Express.js](https://expressjs.com/)
+   - [Adonis.js](https://adonisjs.com/)
+   - [Meteor.js](https://www.meteor.com/)
+   - [Nest.js](https://nestjs.com/)
+   - [Sails.js](https://sailsjs.com/)
+   - [Koa.js](https://koajs.com/)
+   - [Loopback.io](https://loopback.io/)
+   - [egg.js](https://eggjs.org/en/index.html)
+   - [midway](https://midwayjs.org/midway/en/)
+
+5. Type Checkers
+
+   - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+   - [TypeScript](https://www.typescriptlang.org/)
+   - [Flow](https://flow.org/en/)
+
+6. API Clients
 
    - REST
      - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
@@ -114,11 +106,11 @@ If you like or are using this project to learn or start your solution, please gi
      - [Relay](https://facebook.github.io/relay/)
      - [urql](https://github.com/FormidableLabs/urql)
 
-8. Real-Time Communication
+7. Real-Time Communication
 
    - [Socket.IO](https://socket.io/)
 
-9. MicroServices
+8. MicroServices
 
    - Message-Broker
      - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
@@ -129,11 +121,18 @@ If you like or are using this project to learn or start your solution, please gi
      - [Distribus](https://distribus.com/)
      - [BusMQ](https://github.com/capriza/node-busmq)
 
-10. Task Scheduling
+9. Task Scheduling
 
-    - [Agenda](https://github.com/agenda/agenda)
-    - [Cronicle](https://github.com/jhuckaby/Cronicle)
-    - [Node-Schedule](https://www.npmjs.com/package/node-schedule)
+   - [Agenda](https://github.com/agenda/agenda)
+   - [Cronicle](https://github.com/jhuckaby/Cronicle)
+   - [Node-Schedule](https://www.npmjs.com/package/node-schedule)
+
+10. ORM
+
+    - [sequelize](https://sequelize.org/) Sequelize is a promise-based Node-js ORM that is compatible with Maria DB, Postgress, MySQL, SQLite, and Microsoft SQL
+    - [Mongoose](https://mongoosejs.com/) mongodb object modeling for node.js
+    - [knex](https://www.npmjs.com/package/knex) A query builder for PostgreSQL, MySQL, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+    - [typeorm](https://www.npmjs.com/package/typeorm) ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 
 11. Databases
 
