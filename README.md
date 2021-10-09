@@ -115,15 +115,13 @@ If you like or are using this project to learn or start your solution, please gi
 9. MicroServices
 
    - Message-Broker
-
-   - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
-   - [Apache Kafka](https://www.npmjs.com/package/kafka-node)
-   - [ActiveMQ](https://github.com/apache/activemq)
-   - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
-
+     - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
+     - [Apache Kafka](https://www.npmjs.com/package/kafka-node)
+     - [ActiveMQ](https://github.com/apache/activemq)
+     - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
    - Message-Bus
-   - [Distribus](https://distribus.com/)
-   - [BusMQ](https://github.com/capriza/node-busmq)F
+     - [Distribus](https://distribus.com/)
+     - [BusMQ](https://github.com/capriza/node-busmq)
 
 10. Databases
 
@@ -144,7 +142,13 @@ If you like or are using this project to learn or start your solution, please gi
        - [RavenDB](https://github.com/ravendb/ravendb)
        - [CouchDB](http://couchdb.apache.org)
 
-11. Utility Libraries
+11. Task Scheduling
+
+    - [Agenda](https://github.com/agenda/agenda)
+    - [Cronicle](https://github.com/jhuckaby/Cronicle)
+    - [Node-Schedule](https://www.npmjs.com/package/node-schedule)
+
+12. Utility Libraries
 
     - [Lodash](https://lodash.com/)
     - [Moment](https://momentjs.com/)
@@ -154,7 +158,18 @@ If you like or are using this project to learn or start your solution, please gi
     - [ImmutableJS](https://facebook.github.io/immutable-js/)
     - [Ramda](https://ramdajs.com/)
 
-12. Testing
+13. Logging
+
+    - Log Frameworks
+      - [Node-Loggly](https://www.loggly.com/docs/node-js-logs-2/)
+      - [Winston](https://github.com/winstonjs/winston)
+      - [Node-Bunyan](https://github.com/trentm/node-bunyan)
+      - [Morgan](https://github.com/expressjs/morgan)
+    - Log Management System
+      - [Sentry.io](http://sentry.io/),
+      - [Loggly.com](https://loggly.com/)
+
+14. Testing
 
     - Unit Testing
       - [Jest](https://facebook.github.io/jest/)
@@ -165,17 +180,14 @@ If you like or are using this project to learn or start your solution, please gi
       - [AVA](https://github.com/avajs/ava)
       - [Tape](https://github.com/substack/tape)
     - End to End Testing
-      - [Selenium](https://www.seleniumhq.org/), [Webdriver](http://webdriver.io/)
+      - [Selenium](https://www.seleniumhq.org/),
+      - [Webdriver](http://webdriver.io/)
       - [Cypress](https://cypress.io/)
       - [Puppeteer](https://pptr.dev/)
       - [Cucumber.js](https://github.com/cucumber/cucumber-js)
       - [Nightwatch.js](http://nightwatchjs.org/)
     - Integration Testing
       - [Karma](https://karma-runner.github.io/)
-
-13. Virtual Reality
-
-    - [React 360](https://facebook.github.io/react-360/)
 
 ## Contribution
 
