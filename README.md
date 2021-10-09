@@ -45,6 +45,7 @@ If you like or are using this project to learn or start your solution, please gi
 
    - [github](https://github.com/airbnb/javascript) Airbnb JavaScript Style Guide
    - [github](https://github.com/ryanmcdermott/clean-code-javascript) clean-code-javascript
+   - [w3schools](https://www.w3schools.com/js/js_conventions.asp) js_conventions
 
    _playground_
 
@@ -86,16 +87,21 @@ If you like or are using this project to learn or start your solution, please gi
      - [npm](https://www.npmjs.com/)
      - [yarn](https://yarnpkg.com/lang/en/)
      - [pnpm](https://pnpm.js.org/)
+   - Task Runners
+
+     - [nodemon](https://www.npmjs.com/package/nodemon)
+     - [pm2](https://pm2.keymetrics.io/)
+     - [gulp](https://gulpjs.com/)
+     - [grunt](https://gruntjs.com/)
+     - [LiveReload](https://gruntjs.com/)
+     - [forever](https://gruntjs.com/)
+
    - Module Bundlers
      - [Webpack](https://webpack.js.org/)
      - [Bazel](https://bazel.build/)
      - [Rollup](https://rollupjs.org/guide/en)
      - [Browserify](http://browserify.org/)
      - [FuseBox](https://fuse-box.org/)
-   - Task Runners
-     - [npm scripts](https://docs.npmjs.com/misc/scripts)
-     - [gulp](https://gulpjs.com/)
-     - [grunt](https://gruntjs.com/)
 
 7. API Clients
 
@@ -123,14 +129,20 @@ If you like or are using this project to learn or start your solution, please gi
      - [Distribus](https://distribus.com/)
      - [BusMQ](https://github.com/capriza/node-busmq)
 
-10. Databases
+10. Task Scheduling
+
+    - [Agenda](https://github.com/agenda/agenda)
+    - [Cronicle](https://github.com/jhuckaby/Cronicle)
+    - [Node-Schedule](https://www.npmjs.com/package/node-schedule)
+
+11. Databases
 
     1. Relational
+       - [PostgreSQL](https://www.postgresql.org)
+       - [MySQL](https://www.mysql.com)
+       - [MariaDB](https://mariadb.org)
        - [SQL Server](https://www.microsoft.com/sql-server/sql-server-2019)
        - [Oracle](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html)
-       - [MySQL](https://www.mysql.com)
-       - [PostgreSQL](https://www.postgresql.org)
-       - [MariaDB](https://mariadb.org)
     2. Cloud Databases
        - [CosmosDB](https://docs.microsoft.com/azure/cosmos-db)
        - [DynamoDB](https://aws.amazon.com/dynamodb)
@@ -142,23 +154,30 @@ If you like or are using this project to learn or start your solution, please gi
        - [RavenDB](https://github.com/ravendb/ravendb)
        - [CouchDB](http://couchdb.apache.org)
 
-11. Task Scheduling
+12. Security Libraries
 
-    - [Agenda](https://github.com/agenda/agenda)
-    - [Cronicle](https://github.com/jhuckaby/Cronicle)
-    - [Node-Schedule](https://www.npmjs.com/package/node-schedule)
+    - [bcryptjs](https://auth0.com/blog/complete-guide-to-nodejs-express-user-authentication/)
+    - [cors](https://auth0.com/blog/complete-guide-to-nodejs-express-user-authentication/)
+    - [jsonwebtoken](https://auth0.com/blog/complete-guide-to-nodejs-express-user-authentication/)
+    - [express-jwt](https://auth0.com/blog/complete-guide-to-nodejs-express-user-authentication/)
+    - [joi](https://auth0.com/blog/complete-guide-to-nodejs-express-user-authentication/)
+    - [Passport JS](http://www.passportjs.org/)
+    - [Auth0](https://auth0.com/blog/complete-guide-to-nodejs-express-user-authentication/)
+    - [nodemailer](http://www.passportjs.org/)
 
-12. Utility Libraries
+13. Utility Libraries
 
+    - [JSHint](https://github.com/jshint/jshint)
+    - [commander](https://github.com/tj/commander.js/)
+    - [Async.js](https://caolan.github.io/async/)
     - [Lodash](https://lodash.com/)
     - [Moment](https://momentjs.com/)
     - [classnames](https://github.com/JedWatson/classnames)
     - [Numeral](http://numeraljs.com/)
-    - [RxJS](http://reactivex.io/)
     - [ImmutableJS](https://facebook.github.io/immutable-js/)
     - [Ramda](https://ramdajs.com/)
 
-13. Logging
+14. Logging
 
     - Log Frameworks
       - [Node-Loggly](https://www.loggly.com/docs/node-js-logs-2/)
@@ -169,7 +188,7 @@ If you like or are using this project to learn or start your solution, please gi
       - [Sentry.io](http://sentry.io/),
       - [Loggly.com](https://loggly.com/)
 
-14. Testing
+15. Testing
 
     - Unit Testing
       - [Jest](https://facebook.github.io/jest/)
