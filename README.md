@@ -4,28 +4,26 @@
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next as a Node.js developer?"
 
-> Note: The purpose of this roadmap is to give you an idea about the landscape. It will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than another, and remember that hip and trendy does not always mean best suited for the job.
-
 ## Table of Contents
 
-| No. | Topic                                                                |
-| --- | -------------------------------------------------------------------- |
-| 1   | [Roadmap](#1-roadmap)                                                |
-| 2   | [IDEs](#2-ides)                                                      |
-| 3   | [JavaScript](#3-javascript)                                          |
-| 4   | [Build Tools](#4-build-tools)                                        |
-| 5   | [Web Frameworks](#5-web-frameworks)                                  |
-| 6   | [API Clients](#6-api-clients)                                        |
-| 7   | [Real-Time Communication](#7-real-time-communication)                |
-| 8   | [Microservices](#8-microservices)                                    |
-| 9   | [Task Scheduling](#9-task-scheduling)                                |
-| 10  | [ORM](#10-orm)                                                       |
-| 11  | [Databases](#11-databases)                                           |
-| 12  | [Security Libraries](#12-security-libraries)                         |
-| 13  | [Utility Libraries](#13-utility-libraries)                           |
-| 14  | [Type Checkers](#14-type-checkers)                                   |
-| 15  | [Logging](#15-logging)                                               |
-| 16  | [Testing](#16-testing)                                               |
+| No. | Topic                                                 |
+| --- | ----------------------------------------------------- |
+| 1   | [Roadmap](#1-roadmap)                                 |
+| 2   | [IDEs](#2-ides)                                       |
+| 3   | [JavaScript](#3-javascript)                           |
+| 4   | [Build Tools](#4-build-tools)                         |
+| 5   | [Web Frameworks](#5-web-frameworks)                   |
+| 6   | [API Clients](#6-api-clients)                         |
+| 7   | [Real-Time Communication](#7-real-time-communication) |
+| 8   | [Microservices](#8-microservices)                     |
+| 9   | [Task Scheduling](#9-task-scheduling)                 |
+| 10  | [ORM](#10-orm)                                        |
+| 11  | [Databases](#11-databases)                            |
+| 12  | [Security Libraries](#12-security-libraries)          |
+| 13  | [Utility Libraries](#13-utility-libraries)            |
+| 14  | [Type Checkers](#14-type-checkers)                    |
+| 15  | [Logging](#15-logging)                                |
+| 16  | [Testing](#16-testing)                                |
 
 ## 1. Roadmap
 
@@ -37,14 +35,14 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 ## 2. IDEs
 
-| IDE                                                          | Short Description                              | Pricing      |
-| ------------------------------------------------------------ | ---------------------------------------------- | ------------ |
-| [Visual Studio Code](https://code.visualstudio.com/Download) | Lightweight and highly extensible code editor. | **Free**     |
-| [WebStorm](https://www.jetbrains.com/webstorm/)              | Powerful IDE for modern JavaScript development.| **Freemium** |
-| [Cursor](https://www.cursor.com/)                            | AI-powered code editor with smart assistance.  | **Freemium** |
-| [Sublime Text](https://www.sublimetext.com/)                 | Fast and customizable lightweight editor.      | **Paid**     |
-| [Neovim](https://neovim.io/)                                 | Hyperextensible Vim-based text editor.         | **Free**     |
-| [Zed](https://zed.dev/)                                      | High-performance collaborative code editor.    | **Free**     |
+| IDE                                                          | Short Description                               | Pricing      |
+| ------------------------------------------------------------ | ----------------------------------------------- | ------------ |
+| [Visual Studio Code](https://code.visualstudio.com/Download) | Lightweight and highly extensible code editor.  | **Free**     |
+| [WebStorm](https://www.jetbrains.com/webstorm/)              | Powerful IDE for modern JavaScript development. | **Freemium** |
+| [Cursor](https://www.cursor.com/)                            | AI-powered code editor with smart assistance.   | **Freemium** |
+| [Sublime Text](https://www.sublimetext.com/)                 | Fast and customizable lightweight editor.       | **Paid**     |
+| [Neovim](https://neovim.io/)                                 | Hyperextensible Vim-based text editor.          | **Free**     |
+| [Zed](https://zed.dev/)                                      | High-performance collaborative code editor.     | **Free**     |
 
 **[⬆ Back to Top](#table-of-contents)**
 
